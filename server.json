@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/kraken",
   "title": "Kraken",
   "description": "Kraken MCP (public endpoints).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/kraken",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-kraken",
