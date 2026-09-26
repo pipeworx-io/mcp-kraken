@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-kraken",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Kraken MCP (public endpoints).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-7e0fa55649f46ffb02b9b890f5fd49df1250bb4fb24b9a097346c3c7dbda5452",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-0910e6f7fb69b1dd1e0cf73f49f9709e6dd19765c169e3a7bffb1e98e9a9b19c",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
