@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-kraken",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Kraken MCP (public endpoints).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "kraken",
     "gatewaySlug": "kraken",
-    "sourceHash": "v1-b54516b30eb068ccbb18c768cc13beb990a714cdb7b71c2003e2e3f263e15aec",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-b91f065f751557843b068a1927d4d29b7fa55c3b6987affda9658ae0fff8ca7a",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
